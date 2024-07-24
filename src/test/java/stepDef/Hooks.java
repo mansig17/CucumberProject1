@@ -27,6 +27,7 @@ public class Hooks {
 	{
 		tcs.driver.quit();
 		System.out.println("In after");
+		System.out.println("New line after cloning the project");
 		
 	}
 	

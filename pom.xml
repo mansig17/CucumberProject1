@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>CUCUMBER</groupId>
-  <artifactId>Junit_cucumber_p1</artifactId>
+  <artifactId>Junit_p1</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 
    <name>RS_Cucumber_Selenium</name>
