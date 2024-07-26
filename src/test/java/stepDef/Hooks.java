@@ -27,6 +27,8 @@ public class Hooks {
 	{
 		tcs.driver.quit();
 		System.out.println("In after");
+
+		System.out.println("In after2");
 		
 	}
 	
