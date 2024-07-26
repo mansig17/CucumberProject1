@@ -29,6 +29,9 @@ public class Hooks {
 		System.out.println("In after");
 
 		System.out.println("In after2");
+		System.out.println("New line after cloning the project");
+
+		System.out.println("New line after cloning the project2");
 		
 	}
 	
