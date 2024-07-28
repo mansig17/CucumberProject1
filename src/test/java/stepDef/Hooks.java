@@ -32,6 +32,7 @@ public class Hooks {
 		System.out.println("New line after cloning the project");
 
 		System.out.println("New line after cloning the project2");
+		System.out.print("New branch");
 		
 	}
 	
